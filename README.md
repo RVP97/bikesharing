@@ -4,6 +4,8 @@
 
 The purpose of this analysis is to convince investors that a bike-sharing program established in Des Moines could be quite beneficial financially. By using the data made available by Citi, we can interpolate the results and apply them to the city in Iowa.
 
+The Tableau visualizations can be found in the following link: [CitiBike Visualizations](https://public.tableau.com/app/profile/rodrigo.valle/viz/Book2_16641346902030/CitiBikeStory?publish=yes)
+
 ## Results
 
 This section will include a picture of all the visualizations as well as a description of its results:
